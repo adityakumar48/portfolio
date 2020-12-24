@@ -1,8 +1,6 @@
 <h1>Portfolio Site</h1>
 
-
-
- **Website Demo** 	:grinning: - https://port.ranochtech.com/
+* **Website Demo** :grinning: - https://port.ranochtech.com/
 
 
 * Features :
@@ -20,4 +18,7 @@
   
   
 * **System Requirements** :
-  * There are no minimum system requirements for developing HTML; you can do it in any text editing program with any type of computer and any operating system. That’s the beauty of HTML! This book uses Notepad as the text editor, but you can use any editor that you like.
+  * There are no minimum system requirements for developing HTML you can do it in any text editing program with any type of computer and any operating system. That’s the beauty of HTML! This book uses Notepad as the text editor, but you can use any editor that you like.
+
+**Sample Image** :
+* **![Sample Image](/img/sample.png)**
