@@ -62,19 +62,3 @@ a:hover {
   background-color: #222222;
   border-radius: 18px;
 }
-footer {
-  background-color: #222222;
-}
-footer i {
-  font-size: 25px;
-}
-footer .icons {
-  border: 1px solid white;
-  border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 50px;
-  width: 50px;
-  cursor: pointer;
-}
