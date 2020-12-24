@@ -1,1 +1,1 @@
-<h1>Portfolio Web Site </h1>
+<h1 styles="text-align:center;">Portfolio Web Site </h1>
