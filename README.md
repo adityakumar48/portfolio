@@ -1,7 +1,6 @@
 <h1>Portfolio Site</h1>
 
-* **Website Demo** :grinning: - https://port.ranochtech.com/
-
+* **Website Demo** :grinning: - https://adityakumar48.github.io/portfolio/
 
 * Features :
   * Responsive Look :fire:
